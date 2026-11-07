@@ -5,6 +5,12 @@ public class MobilBensin extends Kendaraan {
         super(nomorRangka, merk);
         this.bensin = bensin;
     }
+    
+    @Override
+    public void nyalakanMesin() {
+        super.nyalakanMesin();
+        System.out.println("Mobil sudah siap.");
+    }
 
     @Override
     public void servis() {
