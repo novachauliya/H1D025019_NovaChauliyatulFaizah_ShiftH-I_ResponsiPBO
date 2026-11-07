@@ -23,7 +23,7 @@ public abstract class Kendaraan {
     }
     
     public String getInfo() {
-        return "Merk: " + this.merk + " | Mesin: " + (this.isMenyala ? "ON" : "OFF");
+        return "No. Rangka: " + this.nomorRangka + " | Mesin: " + (this.isMenyala ? "ON" : "OFF");
     }
     
     public abstract void servis();
