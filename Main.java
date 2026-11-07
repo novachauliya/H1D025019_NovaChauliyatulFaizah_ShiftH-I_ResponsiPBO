@@ -8,7 +8,7 @@ public class Main {
         System.out.println(wuling.getInfo()); 
         wuling.aktifkanAirbag(); 
         wuling.servis(); 
-
+        
         System.out.println("\n--- 2. Pengujian Mobil Bensin ---");
         MobilBensin porsche = new MobilBensin("PC-02", "Porsche 718 Spyder", 2);
         System.out.println(porsche.getInfo()); 
