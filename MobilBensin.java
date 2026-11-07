@@ -1,4 +1,4 @@
-public class MobilBensin extends Kendaraan 
+public class MobilBensin extends Kendaraan {
     private int bensin;
 
     public MobilBensin(String nomorRangka, String merk, int bensin) {
