@@ -15,7 +15,7 @@ public abstract class Kendaraan {
         this.menyala = false;
     }
 
-    public String getNomorRangka() { return this.nomorRangka; } // final: tanpa setter
+    public String getNomorRangka() { return this.nomorRangka; }
     public String getMerk() { return this.merk; }
     public void setMerk(String merk) { this.merk = merk; }
     public boolean isMenyala() { return this.menyala; }
