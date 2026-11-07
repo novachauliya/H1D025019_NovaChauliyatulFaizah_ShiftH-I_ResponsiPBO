@@ -3,7 +3,6 @@ public class Main {
         System.out.println("=== " + Kendaraan.BENGKEL + " ===\n");
 
         System.out.println("--- 1. Pengujian Mobil Listrik ---");
-
         MobilListrik wuling = new MobilListrik("EV-01", "Wuling New Air ev", 10);
         wuling.nyalakanMesin(); 
         System.out.println(wuling.getInfo()); 
