@@ -7,9 +7,7 @@ Identitas Mahasiswa
 
 Petunjuk Compile dan Run
 Pastikan perangkat udah install Java Development Kit (JDK). Buka CMD di tempat file Java disimpan, lalu jalankan perintah berikut:
-
 1. compile semua file Java sekaligus dengan: javac *.java
-
 2. jalankan: java Main
 
 ![Screenshot CMD](SS%20CMD.png)
