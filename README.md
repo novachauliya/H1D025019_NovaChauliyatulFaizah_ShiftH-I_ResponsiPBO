@@ -11,10 +11,10 @@ Pastikan perangkat udah install Java Development Kit (JDK). Buka CMD di tempat f
 2. jalankan: java Main
 
 ## hasil output:
-<img width="619" height="406" alt="345e6ff3-c0a3-4719-9adb-d48f9cb7ab8b" src="https://github.com/user-attachments/assets/562f8a6c-f167-4223-996f-bb9a27687028" />
+<img width="508" height="441" alt="cbd20f18-3285-486e-a10e-acd89d96b4cf" src="https://github.com/user-attachments/assets/190347b6-df26-4cb2-83c0-a7574ce1684e" />
 
 ## pas di running di cmd
-<img width="894" height="861" alt="96e9c6e9-904a-4a30-83e2-1287de678e4e" src="https://github.com/user-attachments/assets/c7db35ee-7461-41ca-8c93-dbb8561a164f" />
+<img width="712" height="613" alt="9336a318-fe48-4c68-acdd-5f5ea82d8d58" src="https://github.com/user-attachments/assets/ecf4a100-1919-4060-9cfd-c5568f418fe0" />
 
-## (output skenario baterai dan bensin aman)
-<img width="528" height="457" alt="bd6a2edd-c447-401e-b46f-bd19a9f9205b" src="https://github.com/user-attachments/assets/c7d0af21-05d0-49dc-8633-58b39eeb065b" />
+## (output skenario baterai aman dan bensin cukup)
+<img width="495" height="429" alt="0ee9474a-c858-455c-be5f-13f3d289fbd4" src="https://github.com/user-attachments/assets/29b0e7b3-284c-4716-a3ea-6d5ece70706f" />
