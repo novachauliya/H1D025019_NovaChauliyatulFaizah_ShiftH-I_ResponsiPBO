@@ -11,10 +11,10 @@ Pastikan perangkat udah install Java Development Kit (JDK). Buka CMD di tempat f
 2. jalankan: java Main
 
 ## hasil output:
-<img width="508" height="441" alt="cbd20f18-3285-486e-a10e-acd89d96b4cf" src="https://github.com/user-attachments/assets/190347b6-df26-4cb2-83c0-a7574ce1684e" />
+<img width="525" height="736" alt="fdd58215-705f-4bf0-87b0-defe635e5b62" src="https://github.com/user-attachments/assets/559cd54c-30fa-41c8-a7d2-0eb1b0659851" />
 
 ## pas di running di cmd
-<img width="712" height="613" alt="9336a318-fe48-4c68-acdd-5f5ea82d8d58" src="https://github.com/user-attachments/assets/ecf4a100-1919-4060-9cfd-c5568f418fe0" />
+<img width="454" height="676" alt="c37ccf79-cba7-4500-9d87-ca9387541fce" src="https://github.com/user-attachments/assets/5b567a97-70bd-4ab7-a055-15b329dd9ce6" />
 
-## (output skenario baterai aman dan bensin cukup)
-<img width="495" height="429" alt="0ee9474a-c858-455c-be5f-13f3d289fbd4" src="https://github.com/user-attachments/assets/29b0e7b3-284c-4716-a3ea-6d5ece70706f" />
+* **Skenario 1 (cabang IF)**: Wuling (baterai 10%) dan Porsche (bensin 2L) masuk cabang if saat servis() dipanggil, sehingga baterai Wuling terisi jadi 100% dan bensin Porsche bertambah jadi 42L.
+* **Skenario 2 (cabang ELSE)**: dibuat objek baru dengan kondisi awal berbeda, yaitu Wuling (baterai 100%) dan Porsche (bensin 42L), sehingga keduanya masuk cabang else saat servis() dipanggil dan state tidak berubah.
