@@ -1,3 +1,6 @@
+## Deskripsi Program
+Program simulasi bengkel sederhana pakai Java dengan tema Otomotif. Di program ini ada dua jenis mobil, yaitu mobil listrik (Wuling New Air ev sama Ioniq 5) dan mobil bensin (Porsche 718 Spyder). Tiap mobil punya kemampuan masing-masing, kayak nyalain mesin, servis, ngisi daya (khusus mobil listrik), dan ngaktifin airbag (khusus mobil listrik). Pas servis, program ngecek kondisi mobilnya dulu. Kalau baterainya di bawah 20% atau bensinnya di bawah 10 liter, mobilnya langsung diisi ulang (Skenario 1). Kalau kondisinya masih cukup, program cuma nampilin kalau mobilnya aman (Skenario 2). Semua skenario dijalanin di class Main dan hasilnya muncul di terminal.
+
 ## Identitas Mahasiswa
 - Nama: Nova Chauliyatul Faizah
 - NIM: H1D025019
