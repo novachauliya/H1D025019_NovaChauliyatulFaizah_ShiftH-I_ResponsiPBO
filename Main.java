@@ -18,7 +18,7 @@ public class Main {
         porsche.servis();
 
         System.out.println("\n--- 3. Syarat 9: Polimorfisme Interface ---");
-        KendaraanListrik ioniq = new MobilListrik("EV-03", "Ioniq 5", 50);
+        KendaraanListrik ioniq = new MobilListrik("IO-03", "Ioniq 5", 50);
         ioniq.isiDaya();
     }
 }
